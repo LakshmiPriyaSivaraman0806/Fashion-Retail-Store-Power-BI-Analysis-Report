@@ -22,7 +22,7 @@ I developed an interactive Power BI report that analyzes and tracks the performa
 4. How does sales performance vary across different cities?
 5. What are the peak sales months vs. low-performing months?
 6. How many stores met or exceeded their targets, and how many failed to meet expectations?
-> <a href="https://github.com/LakshmiPriyaSivaraman0806/Analytics_Hub/blob/main/README.md">Dashboard</a>
+> <a href="https://github.com/LakshmiPriyaSivaraman0806/Analytics_Hub/blob/main/Fashion%20Retail%20Store%20Performance%20Dashboard.png">Dashboard</a>
 
 ## Process:
 - Loaded the data to Power BI and transformed: Checked for missing values, duplicates and cleaned the data.
